@@ -50,7 +50,7 @@ class swift extends Usecar{
 	}
 }
 
-public class Car{
+public class AbstractionCar{
 	public static void main(String[] args) {
 		//for abstract class object creation is not allowed
 		maruticar car1=new maruticar(10);
